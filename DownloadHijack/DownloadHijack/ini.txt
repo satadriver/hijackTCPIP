@@ -1,0 +1,11 @@
+netcard=1
+dldir1.qq.com
+qzs.qzone.qq.com
+dl_dir.qq.com
+sw.bos.baidu.com
+shouji.360tpcdn.com
+180.153.197.52
+
+
+
+
